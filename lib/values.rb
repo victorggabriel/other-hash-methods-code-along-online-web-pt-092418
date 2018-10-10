@@ -10,4 +10,5 @@ require 'pry'
 
 def get_the_values(groceries)
   groceries.value
+  binding.pry
 end
